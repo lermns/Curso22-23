@@ -1,0 +1,122 @@
+/*Lo siento Carlos he intentado hacer la pagina responsive, a lo mejor si lo hacia antes de tocar el css igual me salia. */
+
+/*=====Estilos de la pagina principal.======*/
+body{
+	background: url(../imagen/fondo-juego.jpg);
+
+}
+
+#screen {
+	margin: 0;
+	padding: 20px;
+	position: relative;
+	
+}
+
+/*=====Estilos de la pagina de login.======*/
+#board {
+	width: 400px;
+	height: 300px;
+	background-color: rgb(39, 44, 46);
+	border-color: rgb(70, 109, 116);
+	border-style: dashed;
+	box-shadow: white 0px 0px 10px;
+	border-width: 5px;
+	float:left;
+	position:absolute;
+	top: 190px;
+	left: 23%;
+}
+
+/*=====Estilos de la pagina de registro.
+	Se modifica color de fondo, estilo, texto y efectos de sombreado y la posicion.======*/
+#menu {
+	color: whitesmoke;
+	margin-left: 20px;
+	text-align: center;
+	padding: 5px;
+	width: 180px;
+	height: 280px;
+	float:left;
+	background-color: rgb(39, 44, 46);
+	border-style: dashed;
+	border-color: rgb(70, 109, 116);
+	box-shadow: white 0px 0px 10px;
+	border-width: 5px;
+	position:absolute;
+	left: 56%;
+	top: 190px;
+
+}
+
+/*=====Estilos de la pagina de juego.
+	Se agrega efectos de sombreado, color de texto, fondos de estilo y la posicion.======*/
+#controlPanel {
+	color: whitesmoke;
+	float:left;
+	width: 400px;
+	margin: 5px;
+	padding: 5px;
+	background-color: rgb(39, 44, 46);
+	border-style: solid;
+	border-color: rgb(70, 109, 116);
+	box-shadow: white 0px 0px 10px;
+	position:absolute;
+	top: 130px;
+	left: 440px;
+	
+
+}
+
+/*=====Estilos de la pagina de ranking, se ha modificado el color de fondo.======*/
+.cell {
+	margin: 5px;
+	float: left;
+	width: 40px;
+	height: 40px;
+	background-color:cadetblue;
+}
+
+/*=====Estilos de la pagina de ranking, se ha modificado el marcador de acierto por el logo de javascript.======*/
+.target {
+	/*background-color: black;
+	=====Se ha reeempazado el color negro por un icono.======*/
+	background-image: url(../imagen/Js-logo.png);
+	background-size: cover;
+	background-position: center;
+}
+
+.miss {
+	background-color: red;
+}
+
+.hit {
+	background-color: green;
+}
+h3 {
+	background-color: cadetblue;
+	text-align: center;
+	
+}
+
+/*== Se ha modidficado el titulo de la pagina y se añade efectos de sombreado*/
+h1, h2{
+	text-shadow: 1px 2px 60px rgb(245, 33, 33), 1px 2px 20px rgb(5, 66, 196), 1px 2px 50px rgb(223, 220, 43);
+	text-align: center;
+	color: whitesmoke;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	text-decoration:underline;
+	
+}
+/*Se cambia el color de la letra del menu */
+h3 {
+	color: black;
+}
+
+/*Centramos el input de submit y se pone un efecto sobreado de la caja*/
+#sub {
+	text-align: center;
+	box-shadow: 0 0 10px;
+
+}
+

@@ -1,0 +1,78 @@
+1-Se presenta un ensayo sobre la irrupción del movimiento STEAM (science, technology, engineering,
+2-arts and mathematics) en el contexto educativo español. El ensayo, de naturaleza crítica y reflexiva,
+3-se construye desde la mirada particular, pero informada, de un educador de profesorado de ciencia,
+4-que analiza la aportación, pertinencia y viabilidad del movimiento STEAM en el complejo proceso
+5-de mejora que requiere la educación científica básica en España. Para ello, se empieza con una
+6-reflexión en torno al significado del acrónimo inglés y su relación con el tradicionalmente denominado ámbito curricular científico-tecnológico. Luego se discute sobre la perspectiva de STEAM
+7-como posible enfoque educativo, la analogía escolar del STEAM profesional y las competencias
+8-STEAM. A continuación, se analiza el encuadre del movimiento STEAM con la concepción tradicional de la enseñanza de la ciencia. Se termina con una reflexión global acerca de las perspectivas
+9-ue pueden augurarse respecto a STEAM como enfoque educativo en el contexto español actual.
+10-An essay about the irruption of STEAM (science, technology, engineering, arts and mathematics)
+11-movement in the Spanish educational context is presented. The essay, which is critical and
+12-reflective in nature, is built from the particular view, yet informed, of a science teacher educator,
+13-who analyses the contribution, pertinence and viability of the STEAM movement in the complex
+14-process of improvement that basic science education requires in Spain. To this end, firstly a
+15-reflection around the meaning of the English acronym and its relationship with the traditionally
+16-known as curricular area of science and technology is made. Secondly, it is discussed about STEAM
+17-as a possible educational approach, the school analogy of professional STEAM, and the STEAM
+18-competences. Thirdly, the fit of STEAM with the traditional conception of science education is
+19-analysed. Finally, a global reflection about what perspectives regarding STEAM as an educational
+20-approach can be expected in the current Spanish context is exposed.
+21-Es difícil negar que, en los últimos años, todo lo relacionado con el movimiento STEM
+22-(science, technology, engineering and mathematics)1
+23-, o STEAM si se añade la A de ‘arts’,2
+24-tiene un protagonismo especial en el ámbito de la didáctica de la ciencia3
+25-. Se trata, sin ninguna duda, del término de moda, y mencionarlo en publicaciones, proyectos, congresos,
+26-cursos, redes sociales, etc., parece situarte a la vanguardia de lo que se está innovando en
+27-educación científico-tecnológica. Desde mi punto de vista, el mensaje que emana de ello
+28-es meridianamente claro, a la vez que pernicioso: “Ponga STEAM en su vida académica,
+29-y todo le irá mejor”. O, parafraseando el título de una canción de Amaral, “Sin STEAM no
+30-soy nada”.
+31-STEAM se fomenta, además, de manera incesante mientras buena parte del profesorado
+32-no tiene claro qué implica una educación enmarcada en este movimiento (Pastor, 2018;
+33-Radloff y Guzey, 2016), ni reúne, en su inmensa mayoría, las competencias docentes necesarias para llevarla a cabo en el aula con garantías y autonomía suficientes (Ejiwale, 2013;
+34-Margot y Kettler, 2019; Toma y Greca, 2018). Esta dificultad se acentúa de manera significativa cuando STEAM se intenta promover en los niveles educativos más básicos. La
+35-situación me recuerda al personaje de la comedia de Calderón de la Barca, “El niño bien
+36-criado”, quien, para reclamar su porción de comida al padre olvidadizo, dice en voz alta al
+37-gato que maullaba a su alrededor: “¿de qué me pides los huesos, si aún no me han dado
+38-la carne?”
+39-En España, a diferencia de otros enfoques y constructos didácticos también importados
+40-del ámbito anglosajón, STEAM se ha acuñado directamente con el acrónimo en inglés.
+41-En español sería CTIAM, pero su traducción no parece haber cuajado.4
+42-Así que, no queda
+43-claro si debemos pronunciar STEAM en inglés (“estim”), o tal y como suena en nuestro
+44-idioma (“esteam”). Porque, hoy por hoy, no es un anglicismo, según la Real Academia
+45-Española de la Lengua. En consecuencia, me adhiero a las reflexiones de Acevedo-Díaz
+46-(2020) y Martín-Gordillo (2020) acerca de las posibles connotaciones perversas que pueden derivarse de usar el término inglés STEAM. Efectivamente, entre sus significados están
+47-los sustantivos “vapor” e “ímpetu”, así como el verbo “echar vapor”, que –caprichos del
+48-lenguaje– pueden invitar a pensar que el movimiento STEAM, tal vez, ha llegado al contexto educativo español para “vender humo” de forma un tanto “vigorosa”.
+49-Quizás lo de mantener el acrónimo STEAM en inglés sea para vestir con algo más de “glamur” al comúnmente denominado “ámbito curricular científico-tecnológico”; el cual, en
+50-nuestro contexto educativo siempre ha incluido las matemáticas, las ciencias de la naturaleza y la tecnología. Igualmente ha estado integrada la ingeniería que, de acuerdo con
+51-Raynaud (2018), es la parte de la tecnología dedicada a la producción de artefactos. Basta
+52-con revisar la historia de la educación en España para comprobar que esto último sucede
+53-así desde hace, al menos, medio siglo. En efecto, la Ley General de Educación (1970) ya
+54-establecía para la etapa educativa básica (más conocida como EGB) una materia escolar denominada “pretecnología”, que promovía la construcción de sencillos artefactos.
+55-Luego, a partir de la entrada en vigor de la LOGSE (1990), y en las leyes educativas que se
+56-han ido sucediendo hasta el presente, existe el área de tecnología que promulga, de igual
+57-forma, el análisis, diseño y construcción de artefactos entre sus objetivos básicos.
+58-No obstante, es preciso señalar que, a diferencia de la conexión curricular entre la ciencia y las matemáticas, que es obvia e ineludible desde un punto de vista epistemológico
+59-(García-Carmona, 2001), la integración educativa entre la ciencia y la tecnología ha sido
+60-históricamente más compleja de concebir (Maiztegui et al., 2002). Posiblemente porque
+61-la naturaleza de la tecnología (Acevedo-Díaz, 1998; Raynaud, 2018) no termina de ser bien
+62-comprendida. Y, desafortunadamente, ello se sigue percibiendo en las propuestas educativas bajo el prisma de STEAM (Pleasants, Clough, Olson y Millers, 2019).
+63-Desde mi particular visión, uno de los principales obstáculos para una integración curricular adecuada entre la ciencia y la tecnología, que en su grado de máxima hibridación es
+64-la “tecnociencia” (Echeverría, 2005), se encuentra en identificar ingenuamente la tecnología solo con herramientas TIC.
+65-Con relación a la componente artística de STEAM, que suele referirse a la estética y creatividad dentro de las disciplinas que conforman el acrónimo, ¿acaso estos dos rasgos no son
+66-inherentes, por naturaleza, a las disciplinas científico-tecnológicas? Si se repasa la historia
+67-de la ciencia y la tecnología, se encuentra que los criterios estéticos y creativos han tenido
+68-un protagonismo especial de manera permanente. Como Aitken y Mills (1997) apuntan,
+69-la tecnología es una mezcla de ingenio, pericia e ingeniería creativa que surge cuando se
+70-busca satisfacer una necesidad humana o resolver un problema. Asimismo, Garratt (1993)
+71-señala con respecto al diseño tecnológico que, “aunque es esencial que un diseño funcione correctamente, ya que tenemos sentimientos y emociones, y estamos rodeados de
+72-las cosas que fabricamos, también es importante que «sea bonito».” (p. 25). 
+73-hola
+74-manola
+75-pola
+76-polola
+77-cachay
+78-mamguevo

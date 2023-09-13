@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="departamento.xsl"?>
+<departamento>
+<profesores>
+<profesor nrp="07986543A0590" cuerpo="S">
+<nombre>Rosario</nombre>
+<apellido1>García</apellido1>
+<apellido2>Hernández</apellido2>
+<antiguedad>25</antiguedad>
+<modulosImpartidos>
+<modulo modalidad="P">P</modulo>
+<modulo modalidad="P">ED</modulo>
+<modulo modalidad="P">PMDM</modulo>
+</modulosImpartidos>
+</profesor>
+<profesor nrp="14678432A0590" cuerpo="S">
+<nombre>María</nombre>
+<apellido1>Gómez</apellido1>
+<apellido2>Pérez</apellido2>
+<antiguedad>14</antiguedad>
+<modulosImpartidos>
+<modulo modalidad="P">LMSGI</modulo>
+<modulo modalidad="D">PAR</modulo>
+<modulo modalidad="D">LMSGI_A</modulo>
+</modulosImpartidos>
+</profesor>
+<profesor nrp="08655876A0590" cuerpo="S">
+<nombre>Cesar</nombre>
+<apellido1>Montes</apellido1>
+<apellido2>Sánchez</apellido2>
+<antiguedad>32</antiguedad>
+<modulosImpartidos>
+<modulo modalidad="P">BBDD</modulo>
+<modulo modalidad="P">AD</modulo>
+<modulo modalidad="P">PSP</modulo>
+<modulo modalidad="P">PDAM</modulo>
+</modulosImpartidos>
+</profesor>
+<profesor nrp="16355875B0591" cuerpo="T">
+<nombre>Fernando</nombre>
+<apellido1>Sanabria</apellido1>
+<apellido2>Sánchez</apellido2>
+<antiguedad>29</antiguedad>
+<modulosImpartidos>
+<modulo modalidad="P">DI</modulo>
+<modulo modalidad="P">SGE</modulo>
+<modulo modalidad="P">PASIR</modulo>
+<modulo modalidad="D">PASIR</modulo>
+</modulosImpartidos>
+</profesor>
+<profesor nrp="78654329A0590" cuerpo="S">
+<nombre>Gonzalo</nombre>
+<apellido1>Pereira</apellido1>
+<apellido2>García</apellido2>
+<antiguedad>12</antiguedad>
+<modulosImpartidos>
+<modulo modalidad="P">GBD</modulo>
+<modulo modalidad="D">GBD</modulo>
+<modulo modalidad="P">SRI</modulo>
+<modulo modalidad="P">ASGBR</modulo>
+<modulo modalidad="D">ASGBD</modulo>
+</modulosImpartidos></profesor>
+<profesor nrp="68767669A0590" cuerpo="S">
+<nombre>Javier</nombre>
+<apellido1>Torre</apellido1>
+<apellido2>Murillo</apellido2>
+<antiguedad>12</antiguedad>
+<modulosImpartidos>
+<modulo modalidad="P">LMSGI_A</modulo>
+<modulo modalidad="P">IAW</modulo>
+<modulo modalidad="D">IAW</modulo>
+<modulo modalidad="P">SAD</modulo>
+<modulo modalidad="D">SAD</modulo>
+</modulosImpartidos>
+</profesor>
+<profesor nrp="11782343A0590" cuerpo="S">
+<nombre>Teresa</nombre>
+<apellido1>Muro</apellido1>
+<apellido2>Blanco</apellido2>
+<antiguedad>12</antiguedad>
+<modulosImpartidos>
+<modulo modalidad="P">PAR</modulo>
+<modulo modalidad="P">ASIR</modulo>
+<modulo modalidad="D">ASIR</modulo>
+</modulosImpartidos>
+</profesor>
+<profesor nrp="23565767B0591" cuerpo="T">
+<nombre>Alicia</nombre>
+<apellido1>Alonso</apellido1>
+<apellido2>Blanco</apellido2>
+<antiguedad>12</antiguedad>
+<modulosImpartidos>
+<modulo modalidad="P">SI</modulo>
+<modulo modalidad="D">ISO</modulo>
+<modulo modalidad="P">ISO</modulo>
+</modulosImpartidos>
+</profesor>
+<profesor nrp="09665987B0591" cuerpo="T">
+<nombre>Pedro</nombre>
+<apellido1>Alonso</apellido1>
+<apellido2>Rosa</apellido2>
+<antiguedad>16</antiguedad>
+<modulosImpartidos>
+<modulo modalidad="D">SRI</modulo>
+<modulo modalidad="D">FH</modulo>
+<modulo modalidad="P">FH</modulo>
+<modulo modalidad="D">ASO</modulo>
+<modulo modalidad="P">ASO</modulo>
+</modulosImpartidos>
+</profesor>
+</profesores>
+<modulos>
+<modulo codigo="SI">
+<ciclo>DAM</ciclo>
+<denominacion>Sistemas Informáticos</denominacion>
+<horas>170</horas>
+<curso>1</curso>
+</modulo>
+<modulo codigo="BBDD">
+<ciclo>DAM</ciclo>
+<denominacion>Bases de Datos</denominacion>
+<horas>170</horas>
+<curso>1</curso>
+</modulo>
+<modulo codigo="P">
+<ciclo>DAM</ciclo>
+<denominacion>Programación</denominacion>
+<horas>230</horas>
+<curso>1</curso>
+</modulo>
+<modulo codigo="LMSGI_D">
+<ciclo>DAM</ciclo>
+<denominacion>Lenguaje de Marcas y Sistemas de Gestión de Información</denominacion>
+<horas>120</horas>
+<curso>1</curso>
+</modulo>
+<modulo codigo="ED">
+<ciclo>DAM</ciclo>
+<denominacion>Entornos de Desarrollo</denominacion>
+<horas>90</horas>
+<curso>1</curso>
+</modulo>
+<modulo codigo="AD">
+<ciclo>DAM</ciclo>
+<denominacion>Acceso a Datos</denominacion>
+<horas>125</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="DI">
+<ciclo>DAM</ciclo>
+<denominacion>Desarrollo de Interfaces</denominacion>
+<horas>125</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="PMDM">
+<ciclo>DAM</ciclo>
+<denominacion>Programación Multimedia y Dispositivos Móviles</denominacion>
+<horas>85</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="PSP">
+<ciclo>DAM</ciclo>
+<denominacion>Programación de Servicios y Procesos</denominacion>
+<horas>70</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="SGE">
+<ciclo>DAM</ciclo>
+<denominacion>Sistemas de Gestión Empresarial</denominacion>
+<horas>95</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="PDAM">
+<ciclo>DAM</ciclo>
+<denominacion>Proyecto de Desarrollo de Aplicaciones Multiplataforma</denominacion>
+<horas>40</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="ISO">
+<ciclo>ASIR</ciclo>
+<denominacion>Implantación de Sistemas Operativos</denominacion>
+<horas>256</horas>
+<curso>1</curso>
+</modulo>
+<modulo codigo="PAR">
+<ciclo>ASIR</ciclo>
+<denominacion>Planificación y Administración de Redes</denominacion>
+<horas>192</horas>
+<curso>1</curso>
+</modulo>
+<modulo codigo="FH">
+<ciclo>ASIR</ciclo>
+<denominacion>Fundamentos de Hardware</denominacion>
+<horas>96</horas>
+<curso>1</curso>
+</modulo>
+<modulo codigo="GBD">
+<ciclo>ASIR</ciclo>
+<denominacion>Gestión de Bases de Datos</denominacion>
+<horas>192</horas>
+<curso>1</curso>
+</modulo>
+<modulo codigo="LMSGI_A">
+<ciclo>ASIR</ciclo>
+<denominacion>Lenguaje de Marcas y Sistemas de Gestión de Información</denominacion>
+<horas>128</horas>
+<curso>1</curso>
+</modulo>
+<modulo codigo="ASO">
+<ciclo>ASIR</ciclo>
+<denominacion>Administración de Sistemas Operativos</denominacion>
+<horas>147</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="SRI">
+<ciclo>ASIR</ciclo>
+<denominacion>Servicios de Red e Internet</denominacion>
+<horas>147</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="IAW">
+<ciclo>ASIR</ciclo>
+<denominacion>Implantación de Aplicaciones Web</denominacion>
+<horas>105</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="ASGBD">
+<ciclo>ASIR</ciclo>
+<denominacion>Administración de Sistemas Gestores de Bases de Datos</denominacion>
+<horas>63</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="SAD">
+<ciclo>ASIR</ciclo>
+<denominacion>Seguridad y Alta Disponibilidad</denominacion>
+<horas>105</horas>
+<curso>2</curso>
+</modulo>
+<modulo codigo="PASIR">
+<ciclo>ASIR</ciclo>
+<denominacion>Proyecto de Administración de Sistemas Informáticos en Red</denominacion>
+<horas>30</horas>
+<curso>2</curso>
+</modulo>
+</modulos>
+<ciclos>
+<ciclo codigo="DAM">
+<denominacion>Desarrollo de Aplicaciones Multiplataforma</denominacion>
+<familiaProfesional>Informática</familiaProfesional>
+</ciclo>
+<ciclo codigo="ASIR">
+<denominacion>Administración de Sistemas Informáticos en Red</denominacion>
+<familiaProfesional>Informática</familiaProfesional>
+</ciclo>
+</ciclos>
+</departamento>

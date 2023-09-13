@@ -1,0 +1,19 @@
+create table telescopio (
+modelo varchar2(15) primary key,
+tipo varchar2(15) check (tipo in ('reflector','refractor','catadióptrico')),
+magnitud number(4,2),
+aumentos varchar2(4) check (aumentos like '%x'),
+distancia_focal number(4),
+apertura number(4),
+ocular number(3)
+);
+create table montura(
+referencia varchar2(15) primary key,
+tipo varchar2(15) check (tipo in ('altacimutal','ecuatorial','motorizadaGoTo'))
+);
+create table pack(
+modelo varchar2(15) references telescopio,
+montura varchar2(15) references montura,
+precio number (7,2),
+primary key(modelo,montura)
+);

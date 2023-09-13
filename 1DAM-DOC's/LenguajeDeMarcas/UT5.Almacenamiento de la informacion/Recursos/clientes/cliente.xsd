@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="cliente">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nombreCompleto"/>
+        <xs:element ref="telefonos"/>
+        <xs:element name="fechaNac" type="xs:date"/>
+        <xs:element ref="formacion"/>
+        <xs:element ref="direccion"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nombreCompleto">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nombre" type="xs:string"/>
+        <xs:element name="apellido1" type="xs:string"/>
+        <xs:element name="apellido2" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="telefonos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="tel" type="xs:string" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="formacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="titulacion" type="xs:string" maxOccurs="unbounded"/>
+        <xs:element ref="idioma" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="idioma">
+    <xs:complexType mixed="true">
+      <xs:attribute name="nivel" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="direccion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="TipoVia" type="xs:string"/>
+        <xs:element name="nombreVia" type="xs:string"/>
+        <xs:element name="numeroVia" type="xs:string"/>
+        <xs:element name="piso" type="xs:string" minOccurs="0"/>
+        <xs:element name="puerta" type="xs:string" minOccurs="0"/>
+        <xs:element name="cp" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

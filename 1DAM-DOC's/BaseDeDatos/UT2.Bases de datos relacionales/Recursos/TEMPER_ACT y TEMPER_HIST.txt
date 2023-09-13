@@ -1,0 +1,30 @@
+alter session set nls_date_format=”DD/MM/YYYY”;
+create table temper_act(
+ciudad varchar2(50) primary key,
+temperatura number(2) check (temperatura between -20 and 50)
+);
+insert into temper_act values('Segovia',11);
+insert into temper_act values('Guadalajara',7);
+insert into temper_act values('Granada',13);
+insert into temper_act values('Lugo',15);
+insert into temper_act values('Ibiza',14);
+
+create table temper_hist(
+ciudad varchar2(50),
+fecha date,
+temperatura number(2) check (temperatura between -20 and 50),
+primary key(ciudad,fecha)
+);
+insert into temper_hist values('Segovia','05/02/2021',10);
+insert into temper_hist values('Segovia','04/02/2021',10);
+insert into temper_hist values('Segovia','29/01/2021',5);
+insert into temper_hist values('Guadalajara','05/02/2021',4);
+insert into temper_hist values('Guadalajara','25/01/2021',-1);
+insert into temper_hist values('Granada','04/02/2021',13);
+insert into temper_hist values('Lugo','03/02/2021',15);
+insert into temper_hist values('Lugo','01/02/2021',13);
+insert into temper_hist values('Ibiza','05/02/2021',14);
+insert into temper_hist values('Ibiza','04/02/2021',12);
+
+commit;
+

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cliente.xsd"
+  id="225562">
+<nombreCompleto>
+  <nombre>Ana</nombre>
+  <apellido1>Ruiz</apellido1>
+  <apellido2>Lara</apellido2>
+</nombreCompleto>
+<telefonos>
+  <tel>65289963</tel>
+  <tel>61589233</tel>
+</telefonos>
+  <fechaNac>1996-03-21</fechaNac>
+<formacion>
+<titulacion>Técnico Superior Administración de Sistemas Informáticos</titulacion>
+<titulacion>CCNA nivel 1</titulacion>
+<idioma nivel="B2">Inglés</idioma>
+<idioma nivel="B1">Alemán</idioma>
+</formacion>
+<direccion>
+<TipoVia>Calle</TipoVia>
+<nombreVia>Albastros</nombreVia>
+<numeroVia>6</numeroVia>
+<piso>5</piso>
+<puerta>B</puerta>
+<cp>28822</cp>
+</direccion>
+</cliente>

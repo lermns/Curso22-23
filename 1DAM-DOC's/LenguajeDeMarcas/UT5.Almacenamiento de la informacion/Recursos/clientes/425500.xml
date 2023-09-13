@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cliente.xsd"
+  id="425500">
+<nombreCompleto>
+  <nombre>Alberto</nombre>
+  <apellido1>Rosati</apellido1>
+  <apellido2>Juriel</apellido2>
+</nombreCompleto>
+<telefonos>
+  <tel>65890011</tel>
+  <tel>65268855</tel>
+  <tel>916988236</tel>
+</telefonos>
+  <fechaNac>2000-11-27</fechaNac>
+<formacion>
+<titulacion>Graduado Bellas Artes</titulacion>
+<titulacion>Muralista</titulacion>
+<idioma nivel="B1">Inglés</idioma>
+<idioma nivel="B2">Alemán</idioma>
+</formacion>
+<direccion>
+<TipoVia>Plaza</TipoVia>
+<nombreVia>Indiano</nombreVia>
+<numeroVia>12</numeroVia>
+<piso>5</piso>
+<puerta>C</puerta>
+<cp>28055</cp>
+</direccion>
+</cliente>

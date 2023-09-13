@@ -1,0 +1,17 @@
+body{ width:80%;
+        margin:auto;
+	}
+h1{
+	color:purple;
+	}ul {border:1px solid purple;
+    padding:10px;
+    list-style-position:inside;
+  display: inline-block;
+  width:40%;
+  list-style-type: square;
+}
+	
+
+
+
+

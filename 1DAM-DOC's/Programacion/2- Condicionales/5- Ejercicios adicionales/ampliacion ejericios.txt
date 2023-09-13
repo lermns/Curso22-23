@@ -1,0 +1,33 @@
+1 Dadas las edades y alturas de 5 alumnos, mostrar la edad y la estatura media, la cantidad de alumnos mayores de 18 años, y la cantidad de alumnos que miden más de 1.75.
+
+2 Escribe un programa que lea millas como valor double de la consola y lo convierta en km mostrando el resultado. La fórmula para la conversión es: `1 milla = 1.6 km`
+
+3 Crea un programa llamado **MostrarTiempo.java** que tomando una cantidad por teclado de segundos (entero positivo) muestre la cantidad de minutos y segundos contenidos.
+
+4 Puedes utilizar la función `System.currentTimeMillis()` que devuelve el número total de milisegundos desde el 01/01/1970. Este tiempo se llama **Unix epoch**. Comienza en 1970 que es cuando se introdujo Unix.
+Utilizar este método para saber cuál es el minuto, hora y segundo actuales
+
+
+5 Crea un un programa que pida dos puntos por teclado (x1, x2) e (y1, y2) y muestre la distancia de ambos puntos en línea recta
+
+6 Crear un conversor de unidades informáticas. El programa debe pedir la entrada por teclado de la cantidad y luego de la unidad origen:
+0 = byte
+
+1 = Kilobyte
+
+2 = Megabyte
+
+3 = Gigabyte
+
+4 = Terabyte
+
+Y luego debe realizar la conversión para el resto de unidades. Es decir, si se pasan Kb debe pasar a byte, MB, GB y TB etc.
+
+7 Escribe un programa que muestre la siguiente tabla calculando el punto medio de dos puntos. El punto medio se calcula sumando las dos coordenadas por separado y dividirla entre 2.
+
+a b Punto medio
+(0,0) (2,1) (1.0,0.5)
+(1,4) (4,2) (2.5,3.0)
+(2,7) (6,3) (4.0,5.0)
+(3,9) (10,5) (6.5,7.0)
+(4,11) (12,7) (8.0,9.0)

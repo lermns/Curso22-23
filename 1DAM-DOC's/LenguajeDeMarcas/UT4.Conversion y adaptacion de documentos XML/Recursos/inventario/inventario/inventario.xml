@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="inventario.xsl"?>
+<inventario año="2022" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="inventario.xsd">
+    <equipo codigo="P1">
+        <peso unidad="kg">10</peso>
+        <tipo>Router</tipo>
+        <lugar edificio="B">
+            <sala>101</sala>
+        </lugar>
+    </equipo>
+    <equipo codigo="P2">
+        <peso unidad="g">500</peso>
+        <tipo>Switch</tipo>
+        <lugar edificio="A">
+            <sala>206</sala>
+        </lugar>
+    </equipo>
+    <equipo codigo="P3">
+        <peso unidad="g">350</peso>
+        <tipo>Switch</tipo>
+        <lugar edificio="A">
+            <sala>207</sala>
+        </lugar>
+    </equipo>
+    <equipo codigo="P4">
+        <peso unidad="g">300</peso>
+        <tipo>Switch</tipo>
+        <lugar edificio="A">
+         <sala>210</sala>
+        </lugar>
+    </equipo>
+</inventario>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="fichero.xsl"?>
+<!DOCTYPE gente [
+<!ELEMENT gente (persona+)>
+<!ELEMENT persona (nombre,profesion+)>
+<!ATTLIST persona link CDATA "www.gente.com" nacimiento CDATA #REQUIRED> 
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT profesion (#PCDATA)>]>
+<gente>
+<persona link="http://www.turing.org" nacimiento="1912">
+    <nombre>Alan Turing</nombre>
+	<profesion>Matemático</profesion>
+    <profesion>Criptógrafo</profesion>
+<!--Hay más profesiones-->
+</persona>
+<persona nacimiento="1918">
+    <nombre>Richard P. Feynman</nombre>
+    <profesion>Físico</profesion>
+</persona>
+</gente>
+

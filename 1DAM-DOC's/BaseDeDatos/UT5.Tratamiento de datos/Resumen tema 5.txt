@@ -1,0 +1,43 @@
+1- 
+INSERT INTO nombreTabla [(columna, [columna] …)]
+VALUES (valor, [valor] …);
+
+--con consultas
+insert into emple_sincomision
+select * from emple where comision is null;
+
+--con constantes
+select 1112,'QUIROGA', oficio, dir, sysdate, salario, comision,
+dept_no from emple
+where apellido='GIL';
+
+2- 
+DELETE [FROM] nombreTabla [WHERE condición];
+
+--con consultas
+DELETE [FROM] nombreTabla
+ WHERE valor Operador (SELECT …);
+
+3- 
+UPDATE nombreTabla SET columna1=valor1, columna2=valor2, …
+[WHERE condición];
+
+--con consultas
+UPDATE nombreTabla
+SET columna1=valor1, columna2=(SELECT …), …
+WHERE columna operador (SELECT …);
+
+5-
+--crear una tabla en base a otra con parametros especificados en el where, el nombre de las
+--columnas es opcional en el create.
+CREATE TABLE nombreTabla [(columna1, columna2,…)]
+AS SELECT …;
+
+
+extra-
+
+ALTER SESSION SET NLS_DATE_FORMAT='DD/MM/YYYY';
+
+alter session set container=xepdb1;
+grant create procedure to alumno; --da permiso para funciones y procedimientos
+grant create trigger to alumno;

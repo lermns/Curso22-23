@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8">
+		<script src="js/videogame.js"></script>
+		<script src="js/validation.js"></script>
+		<link rel="stylesheet" href="css/videogame.css">
+		<link rel="stylesheet" href="css/validation.css">
+		<title>Videojuego</title>
+	</head>
+	<body>
+		<h1>PRÁCTICA VIDEO JUEGO</h1>
+		<h2>"LENGUAJE DE MARCAS"</h2>
+		<div id="screen">
+			<div id="board">
+				<div id="target0" class="cell" onmousedown="pulsado(0)"></div>
+				<div id="target1" class="cell" onmousedown="pulsado(1)"></div>
+				<div id="target2" class="cell" onmousedown="pulsado(2)"></div>
+				<div id="target3" class="cell" onmousedown="pulsado(3)"></div>
+				<div id="target4" class="cell" onmousedown="pulsado(4)"></div>
+				<div id="target5" class="cell" onmousedown="pulsado(5)"></div>
+				<div id="target6" class="cell" onmousedown="pulsado(6)"></div>
+				<div id="target7" class="cell" onmousedown="pulsado(7)"></div>
+				<div id="target8" class="cell" onmousedown="pulsado(8)"></div>
+				<div id="target9" class="cell" onmousedown="pulsado(9)"></div>
+				<div id="target10" class="cell" onmousedown="pulsado(10)"></div>
+				<div id="target11" class="cell" onmousedown="pulsado(11)"></div>
+				<div id="target12" class="cell" onmousedown="pulsado(12)"></div>
+				<div id="target13" class="cell" onmousedown="pulsado(13)"></div>
+				<div id="target14" class="cell" onmousedown="pulsado(14)"></div>
+				<div id="target15" class="cell" onmousedown="pulsado(15)"></div>
+				<div id="target16" class="cell" onmousedown="pulsado(16)"></div>
+				<div id="target17" class="cell" onmousedown="pulsado(17)"></div>
+				<div id="target18" class="cell" onmousedown="pulsado(18)"></div>
+				<div id="target19" class="cell" onmousedown="pulsado(19)"></div>
+				<div id="target20" class="cell" onmousedown="pulsado(20)"></div>
+				<div id="target21" class="cell" onmousedown="pulsado(21)"></div>
+				<div id="target22" class="cell" onmousedown="pulsado(22)"></div>
+				<div id="target23" class="cell" onmousedown="pulsado(23)"></div>
+				<div id="target24" class="cell" onmousedown="pulsado(24)"></div>
+				<div id="target25" class="cell" onmousedown="pulsado(25)"></div>
+				<div id="target26" class="cell" onmousedown="pulsado(26)"></div>
+				<div id="target27" class="cell" onmousedown="pulsado(27)"></div>
+				<div id="target28" class="cell" onmousedown="pulsado(28)"></div>
+				<div id="target29" class="cell" onmousedown="pulsado(29)"></div>
+				<div id="target30" class="cell" onmousedown="pulsado(30)"></div>
+				<div id="target31" class="cell" onmousedown="pulsado(31)"></div>
+				<div id="target32" class="cell" onmousedown="pulsado(32)"></div>
+				<div id="target33" class="cell" onmousedown="pulsado(33)"></div>
+				<div id="target34" class="cell" onmousedown="pulsado(34)"></div>
+				<div id="target35" class="cell" onmousedown="pulsado(35)"></div>
+				<div id="target36" class="cell" onmousedown="pulsado(36)"></div>
+				<div id="target37" class="cell" onmousedown="pulsado(37)"></div>
+				<div id="target38" class="cell" onmousedown="pulsado(38)"></div>
+				<div id="target39" class="cell" onmousedown="pulsado(39)"></div>
+				<div id="target40" class="cell" onmousedown="pulsado(40)"></div>
+				<div id="target41" class="cell" onmousedown="pulsado(41)"></div>
+				<div id="target42" class="cell" onmousedown="pulsado(42)"></div>
+				<div id="target43" class="cell" onmousedown="pulsado(43)"></div>
+				<div id="target44" class="cell" onmousedown="pulsado(44)"></div>
+				<div id="target45" class="cell" onmousedown="pulsado(45)"></div>
+				<div id="target46" class="cell" onmousedown="pulsado(46)"></div>
+				<div id="target47" class="cell" onmousedown="pulsado(47)"></div>
+			</div>
+			<div id="menu">
+				<h3>Jugador</h3>
+				<p id="name">Nombre</p>
+				<h3>Puntos</h3>
+				<p id="score">0</p>
+			</div>
+		</div>											<!--se ha usado onSubmit para evitar que la página redireccione.-->
+		<form id="controlPanel" method="post" action="videogame.html" onsubmit="validar(); return false;">
+			<label for="nameForm">Nuevo nombre</label>
+			<input id="nameForm">
+			<p id="nameError" class="validationError"></p>
+			<label for="pointsPerHitForm">Puntos por acertar</label>
+			<input id="pointsPerHitForm">
+			<p id="pointsPerHitError" class="validationError"></p>
+			<label for="pointsPerMissForm">Puntos por fallar</label>
+			<input id="pointsPerMissForm">
+			<p id="pointsPerMissError" class="validationError"></p>
+			<!--Se ha quitado el elemento onload que se invoca en el validador.-->
+			<!--El input submit se pone en un div para poder modificarlo en el css.-->
+			<div id="sub">
+			<input type="submit" value="Actualizar valores e Iniciar juego">
+			</div>
+		</form>
+	</body>
+</html>

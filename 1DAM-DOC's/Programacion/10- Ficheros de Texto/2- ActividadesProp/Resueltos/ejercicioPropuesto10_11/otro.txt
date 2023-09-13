@@ -1,0 +1,4 @@
+Fichero otro.txt
+que contiene texto para
+probar el ejercicio 11
+ del tema 10

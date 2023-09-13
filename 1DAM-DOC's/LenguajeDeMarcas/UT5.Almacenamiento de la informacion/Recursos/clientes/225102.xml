@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cliente.xsd"
+  id="225102">
+<nombreCompleto>
+  <nombre>Juana</nombre>
+  <apellido1>Mateo</apellido1>
+  <apellido2>Quina</apellido2>
+</nombreCompleto>
+<telefonos>
+  <tel>65201147</tel>
+</telefonos>
+  <fechaNac>1998-01-08</fechaNac>
+<formacion>
+<titulacion>Técnico Superior Administración de Sistemas Informáticos</titulacion>
+<titulacion>CCNA nivel 1</titulacion>
+<idioma nivel="B2">Inglés</idioma>
+</formacion>
+<direccion>
+<TipoVia>Calle</TipoVia>
+<nombreVia>Altamira</nombreVia>
+<numeroVia>64</numeroVia>
+<cp>28843</cp>
+</direccion>
+</cliente>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pelicula.xsl"?>
+<película xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pelicula.xsd"
+estreno="2017">
+<título>Jungle</título>
+<dirección>Greg McLean</dirección>
+<reparto principal="true">Daniel Radcliffe</reparto>
+<reparto>Thomas Kretschmann</reparto>
+<reparto>Alex Russell</reparto>
+<reparto>Joel Jackson</reparto>
+<sinopsis>Basada en hechos reales. A principios de la década de 1980, el joven aventurero israelí Yossi Ghinsberg viaja a Bolivia con la intención de viajar al corazón de la selva amazónica. Una vez allí, conoce a Marcus Stamm, un maestro de escuela suizo, y a su amigo Kevin Gale, un excursionista estadounidense y gran fotógrafo. Estando los tres alojados en un hostal de La Paz, Yossi conoce a un austriaco, Karl Ruprechter, que firma conocer la existencia de una tribu indígena en la jungla que los tres deberían ir a ver. Karl dice que conoce la jungla y que les puede acompañar. Yossi, emocionado por la perspectiva de conocer la jungla inexplorada y conocer tribus desconocidas, decide creerle. Regresa al hostal para convencer a Marcus y Kevin de que lo acompañen.</sinopsis>
+<cartel>jungla.jpg</cartel>
+</película>
