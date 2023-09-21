@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ejemplo2Dos" isTestSource="false" packagePrefix="tema9.ejemplo2" />
+      <sourceFolder url="file://$MODULE_DIR$/ejemplo2Uno" isTestSource="false" packagePrefix="tema9.ejemplos.ejemplo2" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos703" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos704" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos705" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos706" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos707" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos708" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos709" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos710" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos711" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos712" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos713" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+      <sourceFolder url="file://$MODULE_DIR$/ejerciciosResueltos714" isTestSource="false" packagePrefix="tema7.ejerciciosResueltos" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
